@@ -6,7 +6,7 @@ namespace claseBasica.OtroProyecto
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Hello World! Otro cambio");
             Console.ReadLine();
         }
     }
