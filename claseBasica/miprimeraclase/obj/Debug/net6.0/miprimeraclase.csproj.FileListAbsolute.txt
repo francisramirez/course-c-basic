@@ -1,0 +1,15 @@
+D:\pro\cursoSabado\course-c-basic\claseBasica\miprimeraclase\bin\Debug\net6.0\miprimeraclase.exe
+D:\pro\cursoSabado\course-c-basic\claseBasica\miprimeraclase\bin\Debug\net6.0\miprimeraclase.deps.json
+D:\pro\cursoSabado\course-c-basic\claseBasica\miprimeraclase\bin\Debug\net6.0\miprimeraclase.runtimeconfig.json
+D:\pro\cursoSabado\course-c-basic\claseBasica\miprimeraclase\bin\Debug\net6.0\miprimeraclase.dll
+D:\pro\cursoSabado\course-c-basic\claseBasica\miprimeraclase\bin\Debug\net6.0\miprimeraclase.pdb
+D:\pro\cursoSabado\course-c-basic\claseBasica\miprimeraclase\obj\Debug\net6.0\miprimeraclase.csproj.AssemblyReference.cache
+D:\pro\cursoSabado\course-c-basic\claseBasica\miprimeraclase\obj\Debug\net6.0\miprimeraclase.GeneratedMSBuildEditorConfig.editorconfig
+D:\pro\cursoSabado\course-c-basic\claseBasica\miprimeraclase\obj\Debug\net6.0\miprimeraclase.AssemblyInfoInputs.cache
+D:\pro\cursoSabado\course-c-basic\claseBasica\miprimeraclase\obj\Debug\net6.0\miprimeraclase.AssemblyInfo.cs
+D:\pro\cursoSabado\course-c-basic\claseBasica\miprimeraclase\obj\Debug\net6.0\miprimeraclase.csproj.CoreCompileInputs.cache
+D:\pro\cursoSabado\course-c-basic\claseBasica\miprimeraclase\obj\Debug\net6.0\miprimeraclase.dll
+D:\pro\cursoSabado\course-c-basic\claseBasica\miprimeraclase\obj\Debug\net6.0\refint\miprimeraclase.dll
+D:\pro\cursoSabado\course-c-basic\claseBasica\miprimeraclase\obj\Debug\net6.0\miprimeraclase.pdb
+D:\pro\cursoSabado\course-c-basic\claseBasica\miprimeraclase\obj\Debug\net6.0\miprimeraclase.genruntimeconfig.cache
+D:\pro\cursoSabado\course-c-basic\claseBasica\miprimeraclase\obj\Debug\net6.0\ref\miprimeraclase.dll
