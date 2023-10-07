@@ -1,0 +1,14 @@
+D:\pro\cursoSabado\course-c-basic\claseBasica\claseBasica.OtroProyecto\bin\Debug\netcoreapp3.1\claseBasica.OtroProyecto.exe
+D:\pro\cursoSabado\course-c-basic\claseBasica\claseBasica.OtroProyecto\bin\Debug\netcoreapp3.1\claseBasica.OtroProyecto.deps.json
+D:\pro\cursoSabado\course-c-basic\claseBasica\claseBasica.OtroProyecto\bin\Debug\netcoreapp3.1\claseBasica.OtroProyecto.runtimeconfig.json
+D:\pro\cursoSabado\course-c-basic\claseBasica\claseBasica.OtroProyecto\bin\Debug\netcoreapp3.1\claseBasica.OtroProyecto.runtimeconfig.dev.json
+D:\pro\cursoSabado\course-c-basic\claseBasica\claseBasica.OtroProyecto\bin\Debug\netcoreapp3.1\claseBasica.OtroProyecto.dll
+D:\pro\cursoSabado\course-c-basic\claseBasica\claseBasica.OtroProyecto\bin\Debug\netcoreapp3.1\claseBasica.OtroProyecto.pdb
+D:\pro\cursoSabado\course-c-basic\claseBasica\claseBasica.OtroProyecto\obj\Debug\netcoreapp3.1\claseBasica.OtroProyecto.csproj.AssemblyReference.cache
+D:\pro\cursoSabado\course-c-basic\claseBasica\claseBasica.OtroProyecto\obj\Debug\netcoreapp3.1\claseBasica.OtroProyecto.GeneratedMSBuildEditorConfig.editorconfig
+D:\pro\cursoSabado\course-c-basic\claseBasica\claseBasica.OtroProyecto\obj\Debug\netcoreapp3.1\claseBasica.OtroProyecto.AssemblyInfoInputs.cache
+D:\pro\cursoSabado\course-c-basic\claseBasica\claseBasica.OtroProyecto\obj\Debug\netcoreapp3.1\claseBasica.OtroProyecto.AssemblyInfo.cs
+D:\pro\cursoSabado\course-c-basic\claseBasica\claseBasica.OtroProyecto\obj\Debug\netcoreapp3.1\claseBasica.OtroProyecto.csproj.CoreCompileInputs.cache
+D:\pro\cursoSabado\course-c-basic\claseBasica\claseBasica.OtroProyecto\obj\Debug\netcoreapp3.1\claseBasica.OtroProyecto.dll
+D:\pro\cursoSabado\course-c-basic\claseBasica\claseBasica.OtroProyecto\obj\Debug\netcoreapp3.1\claseBasica.OtroProyecto.pdb
+D:\pro\cursoSabado\course-c-basic\claseBasica\claseBasica.OtroProyecto\obj\Debug\netcoreapp3.1\claseBasica.OtroProyecto.genruntimeconfig.cache
