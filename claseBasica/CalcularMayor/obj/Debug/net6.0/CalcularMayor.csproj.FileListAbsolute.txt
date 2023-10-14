@@ -1,0 +1,15 @@
+D:\pro\cursoSabado\course-c-basic\claseBasica\CalcularMayor\bin\Debug\net6.0\CalcularMayor.exe
+D:\pro\cursoSabado\course-c-basic\claseBasica\CalcularMayor\bin\Debug\net6.0\CalcularMayor.deps.json
+D:\pro\cursoSabado\course-c-basic\claseBasica\CalcularMayor\bin\Debug\net6.0\CalcularMayor.runtimeconfig.json
+D:\pro\cursoSabado\course-c-basic\claseBasica\CalcularMayor\bin\Debug\net6.0\CalcularMayor.dll
+D:\pro\cursoSabado\course-c-basic\claseBasica\CalcularMayor\bin\Debug\net6.0\CalcularMayor.pdb
+D:\pro\cursoSabado\course-c-basic\claseBasica\CalcularMayor\obj\Debug\net6.0\CalcularMayor.csproj.AssemblyReference.cache
+D:\pro\cursoSabado\course-c-basic\claseBasica\CalcularMayor\obj\Debug\net6.0\CalcularMayor.GeneratedMSBuildEditorConfig.editorconfig
+D:\pro\cursoSabado\course-c-basic\claseBasica\CalcularMayor\obj\Debug\net6.0\CalcularMayor.AssemblyInfoInputs.cache
+D:\pro\cursoSabado\course-c-basic\claseBasica\CalcularMayor\obj\Debug\net6.0\CalcularMayor.AssemblyInfo.cs
+D:\pro\cursoSabado\course-c-basic\claseBasica\CalcularMayor\obj\Debug\net6.0\CalcularMayor.csproj.CoreCompileInputs.cache
+D:\pro\cursoSabado\course-c-basic\claseBasica\CalcularMayor\obj\Debug\net6.0\CalcularMayor.dll
+D:\pro\cursoSabado\course-c-basic\claseBasica\CalcularMayor\obj\Debug\net6.0\refint\CalcularMayor.dll
+D:\pro\cursoSabado\course-c-basic\claseBasica\CalcularMayor\obj\Debug\net6.0\CalcularMayor.pdb
+D:\pro\cursoSabado\course-c-basic\claseBasica\CalcularMayor\obj\Debug\net6.0\CalcularMayor.genruntimeconfig.cache
+D:\pro\cursoSabado\course-c-basic\claseBasica\CalcularMayor\obj\Debug\net6.0\ref\CalcularMayor.dll
