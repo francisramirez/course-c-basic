@@ -27,7 +27,23 @@ namespace claseBasica.CalcularPiezas.Modules
                 Console.WriteLine("La cantidad de piezas digitada es inválida.");
                 return;
             }
+            ////do
+            ////{
+            ////    Console.WriteLine("Ingrese la medida de la pieza. ");
 
+            ////    linea = Console.ReadLine();
+
+            ////    if (float.TryParse(linea, out float myLargo))
+            ////    {
+            ////        largo = myLargo;
+            ////    }
+            ////    else
+            ////    {
+            ////        Console.WriteLine("El largo introducido es inválido.");
+            ////        continue;
+            ////    }
+
+            ////} while (x <= cantidad);
 
             while (x <= cantidad)
             {
