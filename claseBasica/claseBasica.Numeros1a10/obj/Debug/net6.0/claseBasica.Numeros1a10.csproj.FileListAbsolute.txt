@@ -1,0 +1,15 @@
+D:\pro\cursoSabado\course-c-basic\claseBasica\claseBasica.Numeros1a10\bin\Debug\net6.0\claseBasica.Numeros1a10.exe
+D:\pro\cursoSabado\course-c-basic\claseBasica\claseBasica.Numeros1a10\bin\Debug\net6.0\claseBasica.Numeros1a10.deps.json
+D:\pro\cursoSabado\course-c-basic\claseBasica\claseBasica.Numeros1a10\bin\Debug\net6.0\claseBasica.Numeros1a10.runtimeconfig.json
+D:\pro\cursoSabado\course-c-basic\claseBasica\claseBasica.Numeros1a10\bin\Debug\net6.0\claseBasica.Numeros1a10.dll
+D:\pro\cursoSabado\course-c-basic\claseBasica\claseBasica.Numeros1a10\bin\Debug\net6.0\claseBasica.Numeros1a10.pdb
+D:\pro\cursoSabado\course-c-basic\claseBasica\claseBasica.Numeros1a10\obj\Debug\net6.0\claseBasica.Numeros1a10.csproj.AssemblyReference.cache
+D:\pro\cursoSabado\course-c-basic\claseBasica\claseBasica.Numeros1a10\obj\Debug\net6.0\claseBasica.Numeros1a10.GeneratedMSBuildEditorConfig.editorconfig
+D:\pro\cursoSabado\course-c-basic\claseBasica\claseBasica.Numeros1a10\obj\Debug\net6.0\claseBasica.Numeros1a10.AssemblyInfoInputs.cache
+D:\pro\cursoSabado\course-c-basic\claseBasica\claseBasica.Numeros1a10\obj\Debug\net6.0\claseBasica.Numeros1a10.AssemblyInfo.cs
+D:\pro\cursoSabado\course-c-basic\claseBasica\claseBasica.Numeros1a10\obj\Debug\net6.0\claseBasica.Numeros1a10.csproj.CoreCompileInputs.cache
+D:\pro\cursoSabado\course-c-basic\claseBasica\claseBasica.Numeros1a10\obj\Debug\net6.0\claseBasica.Numeros1a10.dll
+D:\pro\cursoSabado\course-c-basic\claseBasica\claseBasica.Numeros1a10\obj\Debug\net6.0\refint\claseBasica.Numeros1a10.dll
+D:\pro\cursoSabado\course-c-basic\claseBasica\claseBasica.Numeros1a10\obj\Debug\net6.0\claseBasica.Numeros1a10.pdb
+D:\pro\cursoSabado\course-c-basic\claseBasica\claseBasica.Numeros1a10\obj\Debug\net6.0\claseBasica.Numeros1a10.genruntimeconfig.cache
+D:\pro\cursoSabado\course-c-basic\claseBasica\claseBasica.Numeros1a10\obj\Debug\net6.0\ref\claseBasica.Numeros1a10.dll

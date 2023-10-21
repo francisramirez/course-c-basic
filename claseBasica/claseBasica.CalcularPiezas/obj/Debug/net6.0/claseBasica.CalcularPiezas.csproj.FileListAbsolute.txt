@@ -1,0 +1,15 @@
+D:\pro\cursoSabado\course-c-basic\claseBasica\claseBasica.CalcularPiezas\bin\Debug\net6.0\claseBasica.CalcularPiezas.exe
+D:\pro\cursoSabado\course-c-basic\claseBasica\claseBasica.CalcularPiezas\bin\Debug\net6.0\claseBasica.CalcularPiezas.deps.json
+D:\pro\cursoSabado\course-c-basic\claseBasica\claseBasica.CalcularPiezas\bin\Debug\net6.0\claseBasica.CalcularPiezas.runtimeconfig.json
+D:\pro\cursoSabado\course-c-basic\claseBasica\claseBasica.CalcularPiezas\bin\Debug\net6.0\claseBasica.CalcularPiezas.dll
+D:\pro\cursoSabado\course-c-basic\claseBasica\claseBasica.CalcularPiezas\bin\Debug\net6.0\claseBasica.CalcularPiezas.pdb
+D:\pro\cursoSabado\course-c-basic\claseBasica\claseBasica.CalcularPiezas\obj\Debug\net6.0\claseBasica.CalcularPiezas.csproj.AssemblyReference.cache
+D:\pro\cursoSabado\course-c-basic\claseBasica\claseBasica.CalcularPiezas\obj\Debug\net6.0\claseBasica.CalcularPiezas.GeneratedMSBuildEditorConfig.editorconfig
+D:\pro\cursoSabado\course-c-basic\claseBasica\claseBasica.CalcularPiezas\obj\Debug\net6.0\claseBasica.CalcularPiezas.AssemblyInfoInputs.cache
+D:\pro\cursoSabado\course-c-basic\claseBasica\claseBasica.CalcularPiezas\obj\Debug\net6.0\claseBasica.CalcularPiezas.AssemblyInfo.cs
+D:\pro\cursoSabado\course-c-basic\claseBasica\claseBasica.CalcularPiezas\obj\Debug\net6.0\claseBasica.CalcularPiezas.csproj.CoreCompileInputs.cache
+D:\pro\cursoSabado\course-c-basic\claseBasica\claseBasica.CalcularPiezas\obj\Debug\net6.0\claseBasica.CalcularPiezas.dll
+D:\pro\cursoSabado\course-c-basic\claseBasica\claseBasica.CalcularPiezas\obj\Debug\net6.0\refint\claseBasica.CalcularPiezas.dll
+D:\pro\cursoSabado\course-c-basic\claseBasica\claseBasica.CalcularPiezas\obj\Debug\net6.0\claseBasica.CalcularPiezas.pdb
+D:\pro\cursoSabado\course-c-basic\claseBasica\claseBasica.CalcularPiezas\obj\Debug\net6.0\claseBasica.CalcularPiezas.genruntimeconfig.cache
+D:\pro\cursoSabado\course-c-basic\claseBasica\claseBasica.CalcularPiezas\obj\Debug\net6.0\ref\claseBasica.CalcularPiezas.dll

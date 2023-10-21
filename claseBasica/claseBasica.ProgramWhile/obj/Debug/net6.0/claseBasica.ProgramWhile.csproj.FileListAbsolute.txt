@@ -1,0 +1,15 @@
+D:\pro\cursoSabado\course-c-basic\claseBasica\claseBasica.ProgramWhile\bin\Debug\net6.0\claseBasica.ProgramWhile.exe
+D:\pro\cursoSabado\course-c-basic\claseBasica\claseBasica.ProgramWhile\bin\Debug\net6.0\claseBasica.ProgramWhile.deps.json
+D:\pro\cursoSabado\course-c-basic\claseBasica\claseBasica.ProgramWhile\bin\Debug\net6.0\claseBasica.ProgramWhile.runtimeconfig.json
+D:\pro\cursoSabado\course-c-basic\claseBasica\claseBasica.ProgramWhile\bin\Debug\net6.0\claseBasica.ProgramWhile.dll
+D:\pro\cursoSabado\course-c-basic\claseBasica\claseBasica.ProgramWhile\bin\Debug\net6.0\claseBasica.ProgramWhile.pdb
+D:\pro\cursoSabado\course-c-basic\claseBasica\claseBasica.ProgramWhile\obj\Debug\net6.0\claseBasica.ProgramWhile.csproj.AssemblyReference.cache
+D:\pro\cursoSabado\course-c-basic\claseBasica\claseBasica.ProgramWhile\obj\Debug\net6.0\claseBasica.ProgramWhile.GeneratedMSBuildEditorConfig.editorconfig
+D:\pro\cursoSabado\course-c-basic\claseBasica\claseBasica.ProgramWhile\obj\Debug\net6.0\claseBasica.ProgramWhile.AssemblyInfoInputs.cache
+D:\pro\cursoSabado\course-c-basic\claseBasica\claseBasica.ProgramWhile\obj\Debug\net6.0\claseBasica.ProgramWhile.AssemblyInfo.cs
+D:\pro\cursoSabado\course-c-basic\claseBasica\claseBasica.ProgramWhile\obj\Debug\net6.0\claseBasica.ProgramWhile.csproj.CoreCompileInputs.cache
+D:\pro\cursoSabado\course-c-basic\claseBasica\claseBasica.ProgramWhile\obj\Debug\net6.0\claseBasica.ProgramWhile.dll
+D:\pro\cursoSabado\course-c-basic\claseBasica\claseBasica.ProgramWhile\obj\Debug\net6.0\refint\claseBasica.ProgramWhile.dll
+D:\pro\cursoSabado\course-c-basic\claseBasica\claseBasica.ProgramWhile\obj\Debug\net6.0\claseBasica.ProgramWhile.pdb
+D:\pro\cursoSabado\course-c-basic\claseBasica\claseBasica.ProgramWhile\obj\Debug\net6.0\claseBasica.ProgramWhile.genruntimeconfig.cache
+D:\pro\cursoSabado\course-c-basic\claseBasica\claseBasica.ProgramWhile\obj\Debug\net6.0\ref\claseBasica.ProgramWhile.dll
