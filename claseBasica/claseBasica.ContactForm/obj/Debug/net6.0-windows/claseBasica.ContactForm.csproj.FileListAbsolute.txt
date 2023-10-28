@@ -1,0 +1,17 @@
+D:\pro\cursoSabado\course-c-basic\claseBasica\claseBasica.ContactForm\obj\Debug\net6.0-windows\claseBasica.ContactForm.csproj.AssemblyReference.cache
+D:\pro\cursoSabado\course-c-basic\claseBasica\claseBasica.ContactForm\obj\Debug\net6.0-windows\claseBasica.ContactForm.csproj.GenerateResource.cache
+D:\pro\cursoSabado\course-c-basic\claseBasica\claseBasica.ContactForm\obj\Debug\net6.0-windows\claseBasica.ContactForm.GeneratedMSBuildEditorConfig.editorconfig
+D:\pro\cursoSabado\course-c-basic\claseBasica\claseBasica.ContactForm\obj\Debug\net6.0-windows\claseBasica.ContactForm.AssemblyInfoInputs.cache
+D:\pro\cursoSabado\course-c-basic\claseBasica\claseBasica.ContactForm\obj\Debug\net6.0-windows\claseBasica.ContactForm.AssemblyInfo.cs
+D:\pro\cursoSabado\course-c-basic\claseBasica\claseBasica.ContactForm\obj\Debug\net6.0-windows\claseBasica.ContactForm.csproj.CoreCompileInputs.cache
+D:\pro\cursoSabado\course-c-basic\claseBasica\claseBasica.ContactForm\bin\Debug\net6.0-windows\claseBasica.ContactForm.exe
+D:\pro\cursoSabado\course-c-basic\claseBasica\claseBasica.ContactForm\bin\Debug\net6.0-windows\claseBasica.ContactForm.deps.json
+D:\pro\cursoSabado\course-c-basic\claseBasica\claseBasica.ContactForm\bin\Debug\net6.0-windows\claseBasica.ContactForm.runtimeconfig.json
+D:\pro\cursoSabado\course-c-basic\claseBasica\claseBasica.ContactForm\bin\Debug\net6.0-windows\claseBasica.ContactForm.dll
+D:\pro\cursoSabado\course-c-basic\claseBasica\claseBasica.ContactForm\bin\Debug\net6.0-windows\claseBasica.ContactForm.pdb
+D:\pro\cursoSabado\course-c-basic\claseBasica\claseBasica.ContactForm\obj\Debug\net6.0-windows\claseBasica.ContactForm.dll
+D:\pro\cursoSabado\course-c-basic\claseBasica\claseBasica.ContactForm\obj\Debug\net6.0-windows\refint\claseBasica.ContactForm.dll
+D:\pro\cursoSabado\course-c-basic\claseBasica\claseBasica.ContactForm\obj\Debug\net6.0-windows\claseBasica.ContactForm.pdb
+D:\pro\cursoSabado\course-c-basic\claseBasica\claseBasica.ContactForm\obj\Debug\net6.0-windows\claseBasica.ContactForm.genruntimeconfig.cache
+D:\pro\cursoSabado\course-c-basic\claseBasica\claseBasica.ContactForm\obj\Debug\net6.0-windows\ref\claseBasica.ContactForm.dll
+D:\pro\cursoSabado\course-c-basic\claseBasica\claseBasica.ContactForm\obj\Debug\net6.0-windows\claseBasica.ContactForm.Forms.frmContactForm.resources
