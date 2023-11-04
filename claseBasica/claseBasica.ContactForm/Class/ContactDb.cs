@@ -42,6 +42,7 @@
         /// <returns>Retorna una lista de los contactos</returns>
         public List<Contact> ObtenerContactos(string pais) 
         {
+             
             return this.contacts.Where(co => co.Pais == pais).ToList();
         }
 
@@ -52,7 +53,8 @@
         /// <returns>Contacto encontrado a partir de la fecha de nacimiento</returns>
         public Contact ObtenerContacto(DateTime fechaNac)
         {
-            return this.contacts.FirstOrDefault(co => co.FechaNacimiento == fechaNac);
+            Contact contact = this.contacts.FirstOrDefault(co => co.FechaNacimiento == fechaNac);
+            return contact;
         }
 
         /// <summary>
@@ -63,6 +65,12 @@
         public Contact ObtenerContacto(string codigo) 
         {
             return this.contacts.FirstOrDefault(co => co.Codigo == codigo);
+        }
+
+        protected Contact ObtenerDatos() 
+        {
+            Contact contact = this.contacts.First();
+            return contact;
         }
     }
 }

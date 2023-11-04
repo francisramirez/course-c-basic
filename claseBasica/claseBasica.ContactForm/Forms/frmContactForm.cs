@@ -8,6 +8,9 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 using claseBasica.ContactForm.Class;
+using Vehicile.Class;
+using Vehicile.Class.Objects;
+
 namespace claseBasica.ContactForm.Forms
 {
     public partial class frmContactForm : Form
@@ -41,6 +44,8 @@ namespace claseBasica.ContactForm.Forms
 
             var contacs = this.contactDao.ObtenerContactos();
 
+            Student student = new Student();
+
             this.dgvCotacts.DataSource = contacs.ToArray();
             this.dgvCotacts.Refresh();
 
@@ -68,6 +73,22 @@ namespace claseBasica.ContactForm.Forms
             tbxSegundoApellido.Text = string.Empty;
             tbxTelefono.Text = string.Empty;
             tbxCodigo.Focus();
+        }
+
+        void GetDataVehiculo() 
+        {
+            //Vehiculo vehiculo = new Vehiculo();
+
+            Jeep jeep = new Jeep() {  };
+
+            // jeep.
+
+            Car car = new Car() 
+            {
+                   
+            };
+
+           
         }
     }
 }

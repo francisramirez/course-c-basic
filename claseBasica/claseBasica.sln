@@ -17,7 +17,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "claseBasica.ProgramWhile", 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "claseBasica.CalcularPiezas", "claseBasica.CalcularPiezas\claseBasica.CalcularPiezas.csproj", "{B804EC40-B2DD-4596-BF00-2A7EB26E86DA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "claseBasica.ContactForm", "claseBasica.ContactForm\claseBasica.ContactForm.csproj", "{00F16988-5A67-41D4-A621-08794F4DB188}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "claseBasica.ContactForm", "claseBasica.ContactForm\claseBasica.ContactForm.csproj", "{00F16988-5A67-41D4-A621-08794F4DB188}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vehicile.Class", "Vehicile.Class\Vehicile.Class.csproj", "{F490183C-1B6B-4462-A8D6-DBF6AF0200EB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -57,6 +59,10 @@ Global
 		{00F16988-5A67-41D4-A621-08794F4DB188}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{00F16988-5A67-41D4-A621-08794F4DB188}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{00F16988-5A67-41D4-A621-08794F4DB188}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F490183C-1B6B-4462-A8D6-DBF6AF0200EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F490183C-1B6B-4462-A8D6-DBF6AF0200EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F490183C-1B6B-4462-A8D6-DBF6AF0200EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F490183C-1B6B-4462-A8D6-DBF6AF0200EB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

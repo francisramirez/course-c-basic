@@ -1,0 +1,12 @@
+D:\pro\cursoSabado\course-c-basic\claseBasica\Vehicile.Class\bin\Debug\net6.0\Vehicile.Class.deps.json
+D:\pro\cursoSabado\course-c-basic\claseBasica\Vehicile.Class\bin\Debug\net6.0\Vehicile.Class.dll
+D:\pro\cursoSabado\course-c-basic\claseBasica\Vehicile.Class\bin\Debug\net6.0\Vehicile.Class.pdb
+D:\pro\cursoSabado\course-c-basic\claseBasica\Vehicile.Class\obj\Debug\net6.0\Vehicile.Class.csproj.AssemblyReference.cache
+D:\pro\cursoSabado\course-c-basic\claseBasica\Vehicile.Class\obj\Debug\net6.0\Vehicile.Class.GeneratedMSBuildEditorConfig.editorconfig
+D:\pro\cursoSabado\course-c-basic\claseBasica\Vehicile.Class\obj\Debug\net6.0\Vehicile.Class.AssemblyInfoInputs.cache
+D:\pro\cursoSabado\course-c-basic\claseBasica\Vehicile.Class\obj\Debug\net6.0\Vehicile.Class.AssemblyInfo.cs
+D:\pro\cursoSabado\course-c-basic\claseBasica\Vehicile.Class\obj\Debug\net6.0\Vehicile.Class.csproj.CoreCompileInputs.cache
+D:\pro\cursoSabado\course-c-basic\claseBasica\Vehicile.Class\obj\Debug\net6.0\Vehicile.Class.dll
+D:\pro\cursoSabado\course-c-basic\claseBasica\Vehicile.Class\obj\Debug\net6.0\refint\Vehicile.Class.dll
+D:\pro\cursoSabado\course-c-basic\claseBasica\Vehicile.Class\obj\Debug\net6.0\Vehicile.Class.pdb
+D:\pro\cursoSabado\course-c-basic\claseBasica\Vehicile.Class\obj\Debug\net6.0\ref\Vehicile.Class.dll
